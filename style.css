@@ -1,0 +1,11 @@
+.slideshow{
+    transition: opacity 400ms;
+}
+.slides > div{
+    opacity: 0;
+    position:absolute;
+}
+.slides > .focus{
+    opacity: 1;
+    position:absolute;
+}
