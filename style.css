@@ -1,9 +1,9 @@
-.slides > div{
+.carousel-slide > div{
     transition: opacity 400ms;
     opacity: 0;
     position: absolute;
 }
-.slides > .focus{
+.carousel-slide > .focus{
     opacity: 1;
     position: absolute;
 }
